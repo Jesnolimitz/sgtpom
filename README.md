@@ -1,7 +1,5 @@
 <p align="center">
 
-<img src="https://telegra.ph//file/75acabea0a9cc6679c2d4.jpg">
-
 </p>
 
 ## Multi Client Fix
